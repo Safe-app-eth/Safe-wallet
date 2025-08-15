@@ -1,0 +1,9 @@
+{
+  "name": "SafeVault",
+  "description": "A secure dashboard to manage your Safe assets across multiple chains.",
+  "iconUrl": "https://safe-app-eth.github.io/SafeVault-/assets/icon.png",
+  "appUrl": "https://safe-app-eth.github.io/SafeVault-/",
+  "chainIds": [1, 137, 42161, 10], 
+  "permissions": ["transactions", "signMessages"],
+  "recommended": true
+}
